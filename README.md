@@ -14,6 +14,7 @@ A terminal-based CSV data analysis tool built with Python and pandas.
 ## 🛠️ Usage
 1. Clone the repository  
 2. Install the required library:
+3. Run the tool:
 
    
 # CSV データ分析ツール（簡易版 Excel）
@@ -32,3 +33,4 @@ Python と pandas を使った、ターミナルで動く CSV データ分析ツ
 ## 🛠️ 使い方
 1. リポジトリをクローン
 2. 必要なライブラリをインストール
+3. 実行
